@@ -8,4 +8,5 @@ exercise: https://mybinder.org/v2/gh/mie-lab/GDA20/master?filepath=exercise2_sdm
 solution:https://mybinder.org/v2/gh/mie-lab/GDA20/master?filepath=exercise2_sdm1%2Fgdm_sdm_solution.ipynb
 
 ## Exercise 3: spatial data mining 2
-
+exercise: https://mybinder.org/v2/gh/mie-lab/GDA20/master?filepath=exercise3_sdm2%2Fgda_sdm2.ipynb
+solution: 
